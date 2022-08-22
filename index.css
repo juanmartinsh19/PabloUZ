@@ -1,0 +1,19 @@
+#grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 47.5% 47.5%;
+    gap: 5%;
+    font-size: 16pt;
+    text-align: justify;
+}
+#grid img{
+    width: 100%;
+}
+#grid p a{
+    text-decoration: none;
+    color: #00528d;
+}
+#grid ul li{
+    list-style: none;
+    margin-left: 25px;
+}
